@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 6a4828173a6f07448a1efcb7ddd4013d
+  productGUID: acc4528f7203d384e8bd5c9459783c03
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -12,7 +12,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Git-Test
+  productName: Git-UnityTest
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -557,14 +557,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Git-Test
+  metroPackageName: Git-UnityTest
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Git-Test
+  metroApplicationDescription: Git-UnityTest
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -634,8 +634,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: c172a6ff-55c0-4225-b958-3e7ba8fd887d
-  projectName: Git-Test (1)
+  cloudProjectId: 3a9732c7-6bbe-4f24-af04-b2ad2dd3950e
+  projectName: Git-UnityTest
   organizationId: kio0404
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
